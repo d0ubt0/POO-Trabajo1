@@ -1,4 +1,4 @@
 # POO-Trabajo1
-Primer trabajo de POO 
-sepabonn@unal.edu.co
-pabonsebas@gmail.com
+/nPrimer trabajo de POO 
+/nsepabonn@unal.edu.co
+
